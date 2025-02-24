@@ -750,7 +750,6 @@ export default function Page() {
                   "Global expansion of the BLOCKAI network",
                   "Continued token staking and rewards improvements",
                   "Increased decentralization and community governance",
-                  "Integration with DeFi protocols and further blockchain ecosystems",
                 ],
               },
             ].map((phase, index) => (
